@@ -1,6 +1,6 @@
 # My attempt at using Chirpy
 
-After copying the just the docs template, here are my steps.
+After copying the Just the Docs template, here are my steps.
 
 ## Running locally
 
@@ -18,7 +18,7 @@ sass:
 
 ## Running on GitHub
 
-
+On GitHub, go to Settings -> Pages and change the Source to GitHub Actions
 
 
 # just-the-docs-template
