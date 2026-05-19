@@ -1,0 +1,87 @@
+---
+title: PowerPoint
+nav_order: 5
+nav_enabled: false
+permalink: /ppt/
+no_header: true
+---
+
+## Slide shows
+
+- Launching a slide show
+- Switching to a browser and back again
+- Jumping to another slide
+- Keyboard and mouse
+
+## Survival
+
+- Getting out of funny modes
+- The ribbon
+- ESCAPE
+- The mouse and the cursor
+- Left clicking and right clicking
+- Hovering
+- Dragging vs resizing
+- Finding the mouse
+- Cut, copy and paste
+- Undo and redo
+- Backups
+
+## Help
+
+- YouTube, AI (e.g. [chat.com](https://chat.com/) or Copilot)
+- Tooltips
+
+---
+
+## Pictures
+
+- Adding photos
+- Adding pictures from the web
+- Adding screenshots
+- Resizing, moving and cropping
+- Compressing photos
+
+## Text
+
+- Adding text
+- Fonts
+- Highlighting
+- Hyperlinks
+
+---
+
+## Staying organized
+
+- Duplicating or hiding slides
+- Rearranging slides
+- Moving slides to another deck
+- Adding page numbers
+- The slide sorter
+- Author's notes
+- Sections
+
+## Shapes and colours
+
+- Rotating, copying and aligning shapes
+- Solid, semi-transparent and gradient colours
+- Outlines
+- Curves
+- Resizing while keeping the same shape
+
+## Sharing slides
+
+- Exporting as a PDF
+- Converting to Google slides
+
+## Animations
+
+- Making things appear and disappear
+
+## Transitions
+
+- Morphing from one slide to another
+
+## Other
+
+- Sounds, videos, tables, graphs
