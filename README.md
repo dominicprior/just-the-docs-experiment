@@ -20,6 +20,13 @@ sass:
 
 On GitHub, go to Settings -> Pages and change the Source to GitHub Actions
 
+It seemed to work, without having to adjust a url or baseurl setting.
+
+On second thoughts, it is failing miserably for the local build.  It seems like it is hard to sort out the paths for the local and GitHub builds.
+
+See <https://gemini.google.com/share/6762523666f5>
+
+I am going to give up on project sites and stick with my user site (which is awkward because I can only have one user site, which makes it hard to do experiments).
 
 # just-the-docs-template
 
