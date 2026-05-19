@@ -12,3 +12,10 @@ sass:
   quiet_deps: true
   silence_deprecations:
     - import
+
+defaults:
+  - scope:
+      path: "docs" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "default"
