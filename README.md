@@ -1,3 +1,26 @@
+# My attempt at using Chirpy
+
+After copying the just the docs template, here are my steps.
+
+## Running locally
+
+In an WSL Ubuntu prompt: `bundle install` then `bundle exec jekyll serve`.
+
+It served here <http://127.0.0.1:4000/>, but gave hundreds of deprecated warnings.
+
+Adding this to the `_config.yml` file made the warnings go away:
+```
+sass:
+  quiet_deps: true
+  silence_deprecations:
+    - import
+```
+
+## Running on GitHub
+
+
+
+
 # just-the-docs-template
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
