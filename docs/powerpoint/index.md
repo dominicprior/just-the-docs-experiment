@@ -18,7 +18,7 @@ permalink: /ppt/
 - The ribbon
 - ESCAPE
 - The mouse and the cursor
-- Left clicking and right clicking
+- Left clicking, right clicking and shift clicking
 - Hovering
 - Dragging vs resizing
 - Finding the mouse
