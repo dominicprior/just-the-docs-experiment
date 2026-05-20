@@ -19,3 +19,5 @@ defaults:
       type: "pages"
     values:
       layout: "default"
+
+logo: "/assets/images/peaceful.webp"
