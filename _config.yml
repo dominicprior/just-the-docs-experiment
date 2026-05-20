@@ -21,3 +21,4 @@ defaults:
       layout: "default"
 
 logo: "/assets/images/peaceful.webp"
+favicon_ico: "/assets/images/favicon.ico"
