@@ -24,3 +24,6 @@ defaults:
 
 logo: "/assets/images/peaceful.webp"
 favicon_ico: "/assets/images/favicon.ico"
+
+back_to_top: true
+back_to_top_text: "Back to top"
